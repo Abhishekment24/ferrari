@@ -20,12 +20,7 @@ body {
   color: rgb(var(--foreground-rgb));
   font-family: "Inter", sans-serif;
 
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background: #000 !important;
 }
 h1,
 h2,
@@ -205,13 +200,13 @@ p {
 
   z-index: 9;
 }
-.menu-icon, .top-nav svg {
+.menu-icon,
+.top-nav svg {
   color: #fff;
   font-size: 32px;
   border: 1px solid #e9933d;
   box-shadow: 0px 0px 10px 2px #e9933d;
   background-color: transparent;
-  
 }
 .boxes {
   border: 1px solid #e9933d;
