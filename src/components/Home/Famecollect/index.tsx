@@ -12,7 +12,7 @@ const Famecollection = () => {
           <div className="">
             <h1 className="blockse heads  text-white text-4xl py-4">Roadmap</h1>
 
-            <p className="py-4 ">
+            <p className="py-4 text-white ">
               All jokes aside, here is a rough sketch of Ferrari Car ahead. We
               do not want to give everything away on day 1, Expect surprises
               along the way
@@ -22,8 +22,8 @@ const Famecollection = () => {
 
         <div className="cards-road pt-5">
           <div className="anumber">
-            <h2>Phase 1</h2>
-            <ul className="ULS">
+            <h2 className="text-white">Phase 1</h2>
+            <ul className="ULS text-white">
               <li>Socials Creation</li>
               <li>Stealth Launch</li>
               <li>CMC and CG</li>
@@ -33,8 +33,8 @@ const Famecollection = () => {
           </div>
 
           <div className="anumber">
-            <h2>Phase 2</h2>
-            <ul className="ULS">
+            <h2 className="text-white">Phase 2</h2>
+            <ul className="ULS text-white">
               <li>Twitter Campaign Trending</li>
 
               <li>
@@ -48,8 +48,8 @@ const Famecollection = () => {
           </div>
 
           <div className="anumber">
-            <h2>Phase 3</h2>
-            <ul className="ULS">
+            <h2 className="text-white">Phase 3</h2>
+            <ul className="ULS text-white">
               <li>Press Releases and Billboard </li>
               <li>Partnerships with VC</li>
               <li>LunarCrush Listing</li>
@@ -59,8 +59,8 @@ const Famecollection = () => {
           </div>
 
           <div className="anumber">
-            <h2>Phase 4</h2>
-            <ul className="ULS">
+            <h2 className="text-white">Phase 4</h2>
+            <ul className="ULS text-white">
               <li>Sponsorship and Partnership Worldwide</li>
               <li>Ferrari Car</li>
               <li>p2e Game development </li>

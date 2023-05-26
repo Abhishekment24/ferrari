@@ -180,7 +180,7 @@ p {
 }
 .ULS li {
   font-size: 16px;
-  color: #fff;
+  color: #fff !important;
 }
 .roadmaps::before {
   content: "";

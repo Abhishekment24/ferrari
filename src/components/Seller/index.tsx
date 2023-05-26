@@ -15,12 +15,12 @@ const Seller = () => {
         <div className="container mx-auto min-[992px]:py-12  max-[991px]:py-8 px-5">
           <div className="flex flex-col">
             <div className="">
-              <p> Try your chance at winning</p>
+              <p className="text-white"> Try your chance at winning</p>
               <h1 className="blockse heads  text-white text-4xl py-4">
                 Current Contest
               </h1>
 
-              <p className="">
+              <p className="text-white">
                 Participants buy Ferrari coin and lots are Drawn to Determine
                 the winners
               </p>
@@ -45,7 +45,7 @@ const Seller = () => {
                     </h1>
                   </div>
 
-                  <p className=""> 1 IPhone</p>
+                  <p className="text-white"> 1 IPhone</p>
                 </div>
               </div>
             </li>
@@ -67,7 +67,7 @@ const Seller = () => {
                     </h1>
                   </div>
 
-                  <p className=""> 1 Harley Bike</p>
+                  <p className="text-white"> 1 Harley Bike</p>
                 </div>
               </div>
             </li>
@@ -89,7 +89,7 @@ const Seller = () => {
                     </h1>
                   </div>
 
-                  <p className=""> 3 IPhone</p>
+                  <p className="text-white"> 3 IPhone</p>
                 </div>
               </div>
             </li>
@@ -111,7 +111,7 @@ const Seller = () => {
                     </h1>
                   </div>
 
-                  <p className=""> 1 Ferrari Car</p>
+                  <p className="text-white"> 1 Ferrari Car</p>
                 </div>
               </div>
             </li>
@@ -133,7 +133,7 @@ const Seller = () => {
                     </h1>
                   </div>
 
-                  <p className=""> 1 Tesla Car</p>
+                  <p className="text-white"> 1 Tesla Car</p>
                 </div>
               </div>
             </li>
@@ -155,7 +155,7 @@ const Seller = () => {
                     </h1>
                   </div>
 
-                  <p className=""> 10 Ferrari Car</p>
+                  <p className="text-white"> 10 Ferrari Car</p>
                 </div>
               </div>
             </li>

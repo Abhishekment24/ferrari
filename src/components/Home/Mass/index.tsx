@@ -37,7 +37,7 @@ const Mass = () => {
                     </h1>
                   </div>
 
-                  <p className="">
+                  <p className="text-white">
                     download metamask or your wallet of choice from the app
                     store or google play store for free. Desktop users, download
                     the google chrome extension by going to metamask.io.
@@ -59,7 +59,7 @@ const Mass = () => {
                     </h1>
                   </div>
 
-                  <p className="">
+                  <p className="text-white">
                     have ETH in your wallet to switch to Ferrari Coin. If you do
                     not have any ETH, you can buy directly on metamask, transfer
                     from another wallet, or buy on another exchange and send it
@@ -82,7 +82,7 @@ const Mass = () => {
                     </h1>
                   </div>
 
-                  <p className="pt-5">
+                  <p className="pt-5 text-white">
                     Go to app.uniswap.org in google chrome or on the browser
                     inside your Metamask app. Connect your wallet. Paste the
                     Ferrari Coin token address into pancakeswap, select Pepe,
