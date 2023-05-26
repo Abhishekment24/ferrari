@@ -72,7 +72,7 @@ const Mass = () => {
               <div className=" text-center">
                 <div>
                   <div className="play-card__icon ">
-                    <div className="flex justify-center items-center">
+                    <div className="flex justify-center items-center py-5">
                       <Image src={cicles1} className="" alt={""}></Image>
                     </div>
                   </div>

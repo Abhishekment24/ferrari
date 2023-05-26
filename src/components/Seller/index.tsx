@@ -20,7 +20,7 @@ const Seller = () => {
                 Current Contest
               </h1>
 
-              <p className="py-4 ">
+              <p className="">
                 Participants buy Ferrari coin and lots are Drawn to Determine
                 the winners
               </p>
