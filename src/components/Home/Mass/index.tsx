@@ -84,9 +84,8 @@ const Mass = () => {
 
                   <p className="pt-5 text-white">
                     Go to app.uniswap.org in google chrome or on the browser
-                    inside your Metamask app. Connect your wallet. Paste the
-                    Ferrari Coin token address into pancakeswap, select Pepe,
-                    and confirm.
+                    inside your Metamask app. Connect your wallet. Ferrari coin
+                    token address into Metamask select Ferraricoin and confirm.
                   </p>
                 </div>
               </div>

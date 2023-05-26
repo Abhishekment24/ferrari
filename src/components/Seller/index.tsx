@@ -7,7 +7,7 @@ import contest_2 from "../../assest/bike.png";
 import contest_3 from "../../assest/iphone-4.png";
 import contest_4 from "../../assest/ferrari-1.png";
 import contest_5 from "../../assest/tesla.06d634b7.png";
-import contest_6 from "../../assest/ferrari-10.png";
+import contest_6 from "../../assest/ferrari-17.png";
 const Seller = () => {
   return (
     <div>
@@ -45,7 +45,7 @@ const Seller = () => {
                     </h1>
                   </div>
 
-                  <p className="text-white"> 1 IPhone</p>
+                  <p className="text-white"> 1 iPhone</p>
                 </div>
               </div>
             </li>
@@ -89,7 +89,7 @@ const Seller = () => {
                     </h1>
                   </div>
 
-                  <p className="text-white"> 3 IPhone</p>
+                  <p className="text-white"> 3 iPhone</p>
                 </div>
               </div>
             </li>

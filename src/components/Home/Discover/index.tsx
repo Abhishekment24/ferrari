@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 
 import Image from "next/image";
-import SmartObject from "../../../assest/img/k4fnk4f-1024x1002.png";
+import SmartObject from "../../../assest/header.png";
 import styles from "./index.module.css";
 
 const Discover = () => {
@@ -31,6 +31,11 @@ const Discover = () => {
                   chosen Live through our Telegram channel...So why not join us
                   on our journey and get in the mix to WIN wonderful Ferrari
                 </p>
+              </div>
+            </div>
+            <div className="min-[992px]:w-1/2 w-full pies py-4">
+              <div className="">
+                <Image src={SmartObject} className="  " alt={""}></Image>
               </div>
             </div>
           </div>

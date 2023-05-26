@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from "react";
 import Image from "next/image";
 import sales from "../../../assest/img/giphy.gif";
 import cicles from "../../../assest/img/ygyhy.png";
-import cicles1 from "../../../assest/lo7015a9.png";
+import cicles1 from "../../../assest/duj53nwc1.png";
 const Nft = () => {
   return (
     <>
