@@ -55,28 +55,6 @@ const Seller = () => {
                   <div className="">
                     <div className="flex justify-center items-center py-5">
                       <Image
-                        src={contest_2}
-                        className="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300 ..."
-                        alt={""}
-                      ></Image>
-                    </div>
-                  </div>
-                  <div className=" py-5">
-                    <h1 className="min-[1024px]:text-[26px]  min-[1280px]:text-[32px] text-white text-2xl ">
-                      @ 1M MC
-                    </h1>
-                  </div>
-
-                  <p className="text-white"> 1 Harley Bike</p>
-                </div>
-              </div>
-            </li>
-            <li className=" boxes">
-              <div className="text-center ">
-                <div>
-                  <div className="">
-                    <div className="flex justify-center items-center py-5">
-                      <Image
                         src={contest_3}
                         className="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300 ..."
                         alt={""}
@@ -93,6 +71,29 @@ const Seller = () => {
                 </div>
               </div>
             </li>
+            <li className=" boxes">
+              <div className="text-center ">
+                <div>
+                  <div className="">
+                    <div className="flex justify-center items-center py-5">
+                      <Image
+                        src={contest_2}
+                        className="transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300 ..."
+                        alt={""}
+                      ></Image>
+                    </div>
+                  </div>
+                  <div className=" py-5">
+                    <h1 className="min-[1024px]:text-[26px]  min-[1280px]:text-[32px] text-white text-2xl ">
+                      @ 1M MC
+                    </h1>
+                  </div>
+
+                  <p className="text-white"> 1 Harley Bike</p>
+                </div>
+              </div>
+            </li>
+            
             <li className=" boxes">
               <div className="text-center ">
                 <div>

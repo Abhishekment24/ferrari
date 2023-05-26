@@ -25,11 +25,11 @@ const Discover = () => {
                   dAC2d192AD30ca67e70
                 </p>
                 <p className="font-normal text-base text-white">
-                  Ferrari Coin Giveaways is a new and very exciting Crytpo
+                  Ferrari Coin Giveaways is a new and very exciting Crypto
                   competition site, where you can WIN amazing cars and other
                   prizes When we Reach our given milestone where Winners will be
                   chosen Live through our Telegram channel...So why not join us
-                  on our journey and get in the mix to WIN wonderful Ferrari
+                  on our journey and get in the mix to WIN a Ferrari.
                 </p>
               </div>
             </div>
