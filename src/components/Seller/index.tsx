@@ -5,7 +5,7 @@ import cicles2 from "../../assest/iphone3.png";
 
 import contest_2 from "../../assest/bike.png";
 import contest_3 from "../../assest/iphone-4.png";
-import contest_4 from "../../assest/ferrari-1.png";
+import contest_4 from "../../assest/ferrari-0.png";
 import contest_5 from "../../assest/tesla.06d634b7.png";
 import contest_6 from "../../assest/ferrari-17.png";
 const Seller = () => {
