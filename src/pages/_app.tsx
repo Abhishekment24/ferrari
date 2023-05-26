@@ -1,6 +1,12 @@
-import '@/styles/globals.css'
-import type { AppProps } from 'next/app'
+import Sites from "@/components/Site";
+import "@/styles/globals.css";
+import type { AppProps } from "next/app";
+import React from "react";
 
 export default function App({ Component, pageProps }: AppProps) {
-  return <Component {...pageProps} />
+  return (
+    <Sites>
+      <Component {...pageProps} />
+    </Sites>
+  );
 }

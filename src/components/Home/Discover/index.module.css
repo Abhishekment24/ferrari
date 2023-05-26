@@ -1,0 +1,23 @@
+.headerbg {
+  background-image: url(../../../assest/1285157\ 1.png);
+  padding: 0;
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  min-height: 760px;
+  display: flex;
+  align-items: center;
+}
+@media (max-width: 991px) {
+  .headerbg {
+    padding-top: 100px;
+
+    min-height: 0px;
+  }
+  .headerbg::after {
+    display: none;
+  }
+  .headerbg::before {
+    opacity: 0.2;
+  }
+}
